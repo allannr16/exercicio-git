@@ -1,3 +1,3 @@
 # exemplo-git-parte2
 
-testando a minha solução
+realização de alteração na main até o conflito
